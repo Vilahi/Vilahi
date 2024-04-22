@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Nazar and I am a beginner front-end developer. Hope you find something interesting here! Let's connect and create something amazing together!
-🌱I’m currently learning javascript.
-👯 I am looking for cooperation with any people
+I don’t often go to GitHub and post repositories, so there are very few of them here ¯\_(ツ)_/¯
+🌱I'm currently learning javascript.
+👯I'm looking for cooperation with any people
 
 my technology stack
 
