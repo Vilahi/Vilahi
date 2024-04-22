@@ -9,6 +9,7 @@ my technology stack
 
 My contacts
 discord - vilahi
+
 telegram - @v1i4l8a8hi
 <!--
 **Vilahi/Vilahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
